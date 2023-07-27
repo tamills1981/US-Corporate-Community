@@ -1,0 +1,14 @@
+,,corporate_network_1936
+0,Number of Nodes,218.0
+1,Number of Edges,1095.0
+2,Graph Density,0.05
+3,Average Shortest Path (unweighted),2.87
+4,Average Clustering Co-efficient,0.33
+5,Diameter,7.0
+6,Radius,4.0
+7,Total Components,30.0
+8,Number of nodes not in giant compontent,32.0
+9,Average Degree,10.05
+10,1 step % reached,4.63
+11,2 step % reached,33.58
+12,3 step % reached,78.21

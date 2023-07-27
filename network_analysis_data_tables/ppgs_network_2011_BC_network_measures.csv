@@ -1,0 +1,14 @@
+,,ppgs_network_2011_BC
+0,Number of Nodes,227.0
+1,Number of Edges,635.0
+2,Graph Density,0.02
+3,Average Shortest Path (unweighted),3.61
+4,Average Clustering Co-efficient,0.14
+5,Diameter,9.0
+6,Radius,5.0
+7,Total Components,26.0
+8,Number of nodes not in giant compontent,29.0
+9,Average Degree,5.59
+10,1 step % reached,2.47
+11,2 step % reached,15.31
+12,3 step % reached,48.25

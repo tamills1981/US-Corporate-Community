@@ -1,0 +1,14 @@
+,,corps_dir_network_1936
+0,Number of Nodes,476.0
+1,Number of Edges,4709.0
+2,Graph Density,0.04
+3,Average Shortest Path (unweighted),2.76
+4,Average Clustering Co-efficient,0.57
+5,Diameter,6.0
+6,Radius,3.0
+7,Total Components,3.0
+8,Number of nodes not in giant compontent,3.0
+9,Average Degree,19.79
+10,1 step % reached,4.17
+11,2 step % reached,34.61
+12,3 step % reached,86.11

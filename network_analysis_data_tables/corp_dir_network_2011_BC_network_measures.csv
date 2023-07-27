@@ -1,0 +1,14 @@
+,,corp_dir_network_2011_BC
+0,Number of Nodes,409.0
+1,Number of Edges,1909.0
+2,Graph Density,0.02
+3,Average Shortest Path (unweighted),3.51
+4,Average Clustering Co-efficient,0.5
+5,Diameter,8.0
+6,Radius,5.0
+7,Total Components,5.0
+8,Number of nodes not in giant compontent,5.0
+9,Average Degree,9.33
+10,1 step % reached,2.29
+11,2 step % reached,13.54
+12,3 step % reached,49.38
