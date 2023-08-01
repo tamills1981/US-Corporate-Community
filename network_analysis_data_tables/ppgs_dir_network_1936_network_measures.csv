@@ -1,14 +1,14 @@
-,,ppgs_dir_network_1936
-0,Number of Nodes,496.0
-1,Number of Edges,4982.0
-2,Graph Density,0.04
-3,Average Shortest Path (unweighted),2.75
-4,Average Clustering Co-efficient,0.57
-5,Diameter,6.0
-6,Radius,4.0
-7,Total Components,3.0
-8,Number of nodes not in giant compontent,3.0
-9,Average Degree,20.09
-10,1 step % reached,4.06
-11,2 step % reached,34.88
-12,3 step % reached,86.86
+,ppgs_dir_network_1936
+Number of Nodes,496.0
+Number of Edges,4982.0
+Graph Density,0.04
+Average Shortest Path (unweighted),2.75
+Average Clustering Co-efficient,0.57
+Diameter,6.0
+Radius,4.0
+Total Components,3.0
+Number of nodes not in giant compontent,3.0
+Average Degree,20.09
+1 step % reached,4.06
+2 step % reached,34.88
+3 step % reached,86.86

@@ -1,14 +1,14 @@
-,,ppgs_dir_network_2011_BC
-0,Number of Nodes,437.0
-1,Number of Edges,2301.0
-2,Graph Density,0.02
-3,Average Shortest Path (unweighted),3.38
-4,Average Clustering Co-efficient,0.51
-5,Diameter,8.0
-6,Radius,5.0
-7,Total Components,5.0
-8,Number of nodes not in giant compontent,5.0
-9,Average Degree,10.53
-10,1 step % reached,2.41
-11,2 step % reached,16.27
-12,3 step % reached,56.43
+,ppgs_dir_network_2011_BC
+Number of Nodes,437.0
+Number of Edges,2301.0
+Graph Density,0.02
+Average Shortest Path (unweighted),3.38
+Average Clustering Co-efficient,0.51
+Diameter,8.0
+Radius,5.0
+Total Components,5.0
+Number of nodes not in giant compontent,5.0
+Average Degree,10.53
+1 step % reached,2.41
+2 step % reached,16.27
+3 step % reached,56.43

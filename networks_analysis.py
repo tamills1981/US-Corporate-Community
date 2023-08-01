@@ -196,8 +196,8 @@ for filename in tqdm(files):
     node_measures.sort_values('node', inplace=True)
     
     #Export node measures as a CSV file
-    csv_name =  name + '_node_measures_' + '.csv'   
-    node_measures.to_csv(f'{OUTPUTS}{csv_name}', header = True, index = True)
+    csv_name =  name + '_node_measures' + '.csv'   
+    node_measures.to_csv(f'{OUTPUTS}{csv_name}', header = True, index = False)
     
     '''This section produces a dataframe of network level measures which are 
     exported as a CSV'''
@@ -239,7 +239,7 @@ for filename in tqdm(files):
     
     #Export as CSV file
     csv_name =  name + '_network_measures' + '.csv'
-    network_measures_final.to_csv(f'{OUTPUTS}{csv_name}', header = True, index = True)    
+    network_measures_final.to_csv(f'{OUTPUTS}{csv_name}', header = True, index = False)    
     
     '''If graph is not fully connected, export nodes not in giant compontent as a
     text file'''
