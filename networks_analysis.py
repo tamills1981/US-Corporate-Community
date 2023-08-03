@@ -197,7 +197,7 @@ for filename in tqdm(files):
     
     #Export node measures as a CSV file
     csv_name =  name + '_node_measures' + '.csv'   
-    node_measures.to_csv(f'{OUTPUTS}{csv_name}', header = True, index = False)
+    node_measures.to_csv(f'{OUTPUTS}{csv_name}', header = True, index = True)
     
     '''This section produces a dataframe of network level measures which are 
     exported as a CSV'''
